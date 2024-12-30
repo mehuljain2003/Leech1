@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/sanjaykagra86/JaiShreeRam3",
+    "repository": "https://github.com/mehuljain2003/Leech1",
     "success_url": "https://t.me/Opleech_WD",
     "stack": "heroku-24",
     "env": {
@@ -38,7 +38,7 @@
             "url": "heroku/python"
         },
         {
-            "url": "https://github.com/sanjaykagra86/heroku-buildpack-ffmpeg-latest.git"
+            "url": "https://github.com/mehuljain2003/heroku-buildpack-ffmpeg-latest.git"
         }
     ]
     }
