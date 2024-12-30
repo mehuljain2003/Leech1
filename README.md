@@ -12,7 +12,7 @@
 ## Deploy To Heroku<p align="center">
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanjaykagra86/JaiShreeRam3)<p align="center">
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mehuljain2003/Leech1)<p align="center">
 
 
 ## Deploy To Google Colab
