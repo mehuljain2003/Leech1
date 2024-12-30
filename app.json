@@ -7,12 +7,12 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/sanjaykagra86/JaiShreeRam3",
+    "repository": "https://github.com/mehuljain2003/Leech1",
     "success_url": "https://t.me/Opleech_WD",
     "stack": "heroku-24",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝒅",
             "required": true
         },
         "API_HASH": {
@@ -24,7 +24,7 @@
             "required": true
         },
         "OWNER_ID": {
-            "description": "𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
+            "description": "𝑼𝒔𝒆𝒓 𝑰𝒅 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
             "required": true
         },
         "SUDO_USERS": {
@@ -36,9 +36,6 @@
     "buildpacks": [
         {
             "url": "heroku/python"
-        },
-        {
-            "url": "https://github.com/sanjaykagra86/heroku-buildpack-ffmpeg-latest.git"
         }
     ]
-    }
+}
