@@ -378,7 +378,7 @@ async def start_command(bot: Client, message: Message):
         "➠ **Can Extract Videos & PDFs From Your Text File and Upload to Telegram!**\n"
         "➠ **For Guide Use Command /guide 📖**\n\n"
         "➠ **Use  /Gauri  Command to Download From TXT File** 📄\n\n"
-        "➠ **𝐌𝐚𝐝𝐞 𝐁𝐲:** @pradeep1804🩷"
+        "➠ **𝐌𝐚𝐝𝐞 𝐁𝐲:** @Hitesh9680🩷"
     )
 
     # Send the image with caption and buttons
