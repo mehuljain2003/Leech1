@@ -51,7 +51,7 @@ import random
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 Contact", url="https://t.me/pradeep1804"),
+            InlineKeyboardButton(text="📞 Contact", url="https://t.me/Hitesh9680"),
             InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+EHezdxFoDsxhOTQ1"),
         ],
         [
@@ -64,7 +64,7 @@ keyboard = InlineKeyboardMarkup(
 Busy = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 Contact", url="https://t.me/pradeep1804"),
+            InlineKeyboardButton(text="📞 Contact", url="https://t.me/Hitesh9680"),
             InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+EHezdxFoDsxhOTQ1"),
         ],
         [
