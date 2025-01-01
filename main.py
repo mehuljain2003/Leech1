@@ -394,7 +394,7 @@ async def start_command(bot: Client, message: Message):
 
 # Retrieve the cookies file path from the environment variable or set the default path
 COOKIES_FILE_PATH = os.getenv("COOKIES_FILE_PATH", "youtube_cookies.txt")
-ADMIN_ID = 6960427846  # Admin ID for restricting the command
+ADMIN_ID = 6818594183  # Admin ID for restricting the command
 
 @bot.on_message(filters.command("cookies") & filters.private)
 async def cookies_handler(client: Client, m: Message):
@@ -444,7 +444,7 @@ SUBSCRIPTION_FILE = "subscription_data.txt"
 CHANNELS_FILE = "channels_data.json"
 
 # Admin ID
-YOUR_ADMIN_ID = 6960427846
+YOUR_ADMIN_ID = 6818594183
 
 # Function to read subscription data
 def read_subscription_data():
@@ -527,7 +527,7 @@ async def remove_user(client, message: Message):
     except ValueError:
         await message.reply_text("Invalid command format. Use: /removeuser <user_id>")
 
-YOUR_ADMIN_ID = 6960427846
+YOUR_ADMIN_ID = 6818594183
 
 # Helper function to check admin privilege
 def is_admin(user_id):
@@ -634,7 +634,7 @@ async def id_command(client, message: Message):
         f"`/add_channel {chat_id}`"
     )
 
-YOUR_ADMIN_ID = 6960427846
+YOUR_ADMIN_ID = 6818594183
 
 # Helper function to check admin privilege
 def is_admin(user_id):
