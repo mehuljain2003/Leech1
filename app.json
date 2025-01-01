@@ -1,5 +1,5 @@
 {
-    "name": "Gauri🩷",
+    "name": "teammj🩷",
     "description": "𝑻𝒆𝒙𝒕 𝑳𝒆𝒆𝒄𝒉 𝑽𝒊𝒅𝒆𝒐 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒐𝒓 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎",
     "logo": "https://graph.org/file/f12a07e9ed8dc349da2e7.jpg",
     "keywords": [
@@ -11,23 +11,23 @@
     "success_url": "https://t.me/Opleech_WD",
     "stack": "heroku-24",
     "env": {
-        "API_ID": {
+        "API_ID": {22940312
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝒅",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {82fb5cd2de25e4c01021b8bbae9909bb
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {7996739561:AAGhbJD_OuOEMs2KZYI7iOENUUYDKYHq6cM
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
             "required": true
         },
-        "OWNER_ID": {
+        "OWNER_ID": {6818594183
             "description": "𝑼𝒔𝒆𝒓 𝑰𝒅 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
             "required": true
         },
-        "SUDO_USERS": {
+        "SUDO_USERS": {6697397532,6818594183
             "description": "𝑺𝒖𝒅𝒐 𝑰𝑫'𝒔 (𝒀𝒐𝒖 𝑪𝒂𝒏 𝑨𝒅𝒅 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒆 𝑩𝒚 𝑮𝒊𝒗𝒊𝒏𝒈 𝑺𝒑𝒂𝒄𝒆)",
             "required": true
         }
